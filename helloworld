@@ -1,4 +1,5 @@
 #problem 1
 #Karsyn Lee
 
-print("Hello World!") 
+print("Hello World!")
+print("Sam says hello too") 
